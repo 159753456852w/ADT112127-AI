@@ -1,3 +1,3 @@
 AI 人工智慧課程
 NTCU AI course
-Professor Chin-Hung Wu in NTCU DCT
+Professor GK Wang in NTCU DCT
